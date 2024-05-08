@@ -12,7 +12,7 @@ You will also need to install the following packages via `pip` or `conda`:
 
 ```
 pip install --upgrade pip setuptools wheel
-pip install numpy matplotlib equinox optax numpyro
+pip install --upgrade numpy matplotlib equinox optax numpyro
 ```
 
 ## Usage
